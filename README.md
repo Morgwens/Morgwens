@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Morgwens
-- 👀 I’m interested in learning to code and work as app developer
+- 👀 I’m interested in learning to code and work as an app developer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on as many projects as I can, to gain experience
 - 📫 How to reach me ...
